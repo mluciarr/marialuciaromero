@@ -184,7 +184,7 @@ hist(DATA$GCpct);
 
 _Figure 1_: Showing the frequency of nucleotide length.
 
-<a name="fig2">![Showing the frequency of GC content](/Users/LuciaR/Documents/Bioinformatics_4_health_science/ALG/markdown/exercise/RplotDATA$GCpct.png "Showing the frequency of GC content")</a>
+<a name="fig2">![Showing the frequency of GC content]( https://github.com/mluciarr/marialuciaromero/blob/main/RplotDATA%24GCpct.png "Showing the frequency of GC content")</a>
 
 
 _Figure 2_: Showing the frequency of GC content.
